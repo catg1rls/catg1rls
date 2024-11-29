@@ -1,4 +1,4 @@
-<h2 align="center">soju</h2>
+<h2 align="center">weebz</h2>
 
 ###
 
