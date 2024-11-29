@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="64" src="https://steamuserimages-a.akamaihd.net/ugc/1839171026629769479/BC8813697E585239E53C47CCAF5F2E85A1EC3892/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<img align="left" height="128" src="https://steamuserimages-a.akamaihd.net/ugc/1839171026629769479/BC8813697E585239E53C47CCAF5F2E85A1EC3892/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
